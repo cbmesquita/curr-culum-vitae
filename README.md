@@ -11,3 +11,9 @@ Olá tudo bem, segue algumas informações sobre mim.
 - 📖 Fazendo pós-graduação em Gerenciamento de Projetos.
 - 📧 E-mail: josemarcelo@gmail.com
 - 📱 Watsapp:35-999789014.
+
+<div align="center">
+  <a href="https://github.com/cbmesquita">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cbmesquita&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbmesquita&layout=compact&langs_count=7&theme=dracula"/>
+</div>
