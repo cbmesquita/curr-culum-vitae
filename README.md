@@ -9,6 +9,14 @@ Olá tudo bem, segue algumas informações sobre mim.
 - 📖 Formado em Análise e Desenvolvimento de sistemas.
 - 📖 Fazendo pós-graduação em Engenharia de Software.
 - 📖 Fazendo pós-graduação em Gerenciamento de Projetos.
+- 📖 Curso de PHP orientado a objetos.
+- 📖 Curso de HTML 5.
+- 📖 Curso de CSS3.
+- 📖 Curso de Bootstrap.
+- 📖 Curso de JavaScript.
+- 📖 Curso de Jquery.
+- 📖 Curso de Composer.
+- 📖 Curso de Git.
 - 📧 E-mail: josemarcelo@gmail.com
 - 📱 Watsapp:35-999789014.
 
