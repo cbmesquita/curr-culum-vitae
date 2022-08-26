@@ -17,7 +17,7 @@ Olá tudo bem, segue algumas informações sobre mim.
 - 📖 Curso de Jquery.
 - 📖 Curso de Composer.
 - 📖 Curso de Git.
-- 📧 E-mail: josemarcelo@gmail.com
+- 📧 E-mail: josemarceloinfo@gmail.com
 - 📱 Watsapp:35-999789014.
 
  ##
